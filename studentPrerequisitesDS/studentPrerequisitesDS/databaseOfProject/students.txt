@@ -1,0 +1,5 @@
+raannn|2020333|2344553|[Introduction,Calculas1,English1]|[StructuredProgramming,Electronics]|[null]|2
+RaniaYahia|2020023|rani|[Probability,Calculas1]|[StructuredProgramming,Electronics]|[null]|3
+MohamedYahia|2020200|4677|[Introduction,Calculas1,Probability]|[Physics1,StructuredProgramming]|[null]|1
+zainab|202011|11111|[Introduction]|[StructuredProgramming,Physics1]|[null]|3
+rania|20202|13245|[null]|[Calculas1]|[null]|2

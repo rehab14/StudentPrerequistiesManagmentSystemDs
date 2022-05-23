@@ -1,0 +1,11 @@
+﻿  Admin.cpp
+C:\Users\AS\source\repos\studentPrerequisitesDS\studentPrerequisitesDS\Admin.cpp(231,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AS\source\repos\studentPrerequisitesDS\studentPrerequisitesDS\Admin.cpp(271,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AS\source\repos\studentPrerequisitesDS\studentPrerequisitesDS\Admin.cpp(280,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AS\source\repos\studentPrerequisitesDS\studentPrerequisitesDS\Admin.cpp(383,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AS\source\repos\studentPrerequisitesDS\studentPrerequisitesDS\Admin.cpp(391,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AS\source\repos\studentPrerequisitesDS\studentPrerequisitesDS\Admin.cpp(432,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AS\source\repos\studentPrerequisitesDS\studentPrerequisitesDS\Admin.cpp(445,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AS\source\repos\studentPrerequisitesDS\studentPrerequisitesDS\Admin.cpp(455,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AS\source\repos\studentPrerequisitesDS\studentPrerequisitesDS\Admin.cpp(477,23): warning C4018: '<': signed/unsigned mismatch
+  studentPrerequisitesDS.vcxproj -> C:\Users\AS\source\repos\studentPrerequisitesDS\Debug\studentPrerequisitesDS.exe

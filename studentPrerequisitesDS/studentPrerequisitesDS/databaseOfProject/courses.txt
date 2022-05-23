@@ -1,0 +1,13 @@
+Oop|CIS250|1300|[Introduction,StructuredProgramming]|3
+Physics1|BSC121|2000|[null]|3
+Introduction|CIS160|1100|[null]|3
+Logic|CIS260|1300|[Physics1]|3
+Probability|BSC123|1200|[null]|3
+Calculas1|BSC122|1200|[DM]|3
+English1|HUM110|1000|[null]|2
+StructuredProgramming|CIS150|1100|[Introduction]|3
+Electronics|CIS150|1000|[Physics1]|4
+Calculas2|BSC125|1000|[Calculas1]|3
+Physics2|BSC126|1200|[Physics1]|3
+ReportWriting|HUM113|1000|[null]|2
+DM|BSC221|3|[null]|3
